@@ -12,9 +12,9 @@ def main():
         i = i + 1
 
     if count == 2:
-        print(num, "is a prime number")
+        print("YES")
     else:
-        print(num, "is not a prime number")
+        print("NO")
     return 0
 
 
